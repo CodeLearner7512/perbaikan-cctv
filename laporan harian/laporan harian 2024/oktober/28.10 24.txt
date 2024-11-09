@@ -1,0 +1,27 @@
+tgl 28 10 1924
+
+1. team romadhon,agung
+	kelurahan klegen dan sd 02 klegen
+	kendala: fo putus
+	status: clear dan sudah up
+
+2. cctv dishub
+	server belum on
+	kendala : mas tedy tidak bisa masuk vpn
+			 solusi: mas tedy minta dipasang anydeks
+	status : on progres (menunggu informasi lebih lanjud)
+	team ke kominfo
+		rivai dan malik
+	kendala: ip publik kominfo blm bisa diakses (masih diperiksa pak tunggul)
+
+3. mutar kota pendekar
+	team : dwiki,vian
+	status : selesai clear (8 tempat)
+
+4. reka sukosari
+	team : anton
+	status : pasang ap (Selesai)
+
+5. ke rumah hevan (ganti modem modem lama hank)
+	team: romadon, agung
+	status: on progres menunggu modem diantar malik psg blm datang
